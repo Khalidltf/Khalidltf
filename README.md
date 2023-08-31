@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidltf&label=Profile%20views&color=0e75b6&style=flat" alt="khalidltf" /> </p>
 
-- 🌱 I’m currently learning **Back End Development and APIs on freecodecamp**
-- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures on freecodecamp.org**
-- 🎯 Plan to learn **Django**
+# - 🌱 I’m currently learning **Back End Development and APIs on freecodecamp**
+# - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures on freecodecamp.org**
+# - 🎯 Plan to learn **Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
